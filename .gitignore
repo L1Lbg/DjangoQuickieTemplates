@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But not .zip files
+!*.zip
+!.gitignore
